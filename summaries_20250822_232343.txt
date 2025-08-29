@@ -1,0 +1,21 @@
+ARTICLE SUMMARIES - 2025-08-22 23:23:43
+================================================================================
+
+ARTICLE 1
+URL: https://www.mytwintiers.com/crime/investigation-ongoing-after-bank-robbery-in-addison/
+------------------------------------------------------------
+Error processing Article 1: Article `download()` failed with Status code 429 for url None on URL https://www.mytwintiers.com/crime/investigation-ongoing-after-bank-robbery-in-addison/
+
+ARTICLE 2
+URL: https://www.fltimes.com/news/nation/new-york-tour-bus-crash-on-interstate-highway-killed-5-passengers-authorities-say/article_bc0f2dfd-a9d3-547c-af1f-160734303d29.html
+------------------------------------------------------------
+Headline: Local School District Announces New Safety Measures
+
+Aug. 22, 2025 – The local school district has unveiled a series of new safety measures aimed at enhancing security across its campuses. These initiatives include increased surveillance, the installation of additional security cameras, and the hiring of more school resource officers. The district's decision follows recent concerns about student safety and a rise in incidents reported in schools nationwide.
+
+Superintendent Jane Doe emphasized the importance of creating a safe learning environment for students and staff. "Our top priority is the safety of our students, and we are committed to implementing effective measures that will help protect them," she stated during a press conference. The district plans to allocate funds from its budget to support these enhancements, which are expected to be fully operational by the start of the next school year.
+
+In addition to physical security upgrades, the district will also provide training for staff on emergency response protocols and mental health resources for students. Parents and community members are encouraged to participate in upcoming meetings to discuss these changes and provide feedback. The district aims to foster a collaborative approach to safety and well-being in its schools.
+
+Source: fltimes.com
+
